@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+youtube-transcript-api
+scipy
+spacy
+sentence-transformers
+scikit-learn
+numpy
